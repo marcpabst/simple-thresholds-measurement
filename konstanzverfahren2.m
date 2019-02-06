@@ -4,6 +4,7 @@ function konstanzverfahren2(dispAmp, startSeq)
     % AB April 2010
     % modified SG & UR April 2014
     % modified DM April 2018
+    % modified MP April 2018
     % ..........................................................................
  
     toneDur = 0.5; % tone duration in seconds
